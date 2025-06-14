@@ -1,4 +1,4 @@
-# Churn-prediction-platform
+# Customer Churn Prediction Platform
 
 ## Description
 

@@ -8,7 +8,7 @@ This project delivers an end-to-end solution for predicting customer churn in th
 ## Features
 
 + **EDA & Preprocessing:** Data cleaning, encoding, and feature selection based on exploratory analysis.
-+ **Churn Prediction:** Trained ML model (Logistic Regression, Random Forest, XGBoost, or CatBoost) for predicting churn probability.
++ **Churn Prediction:** Trained ML model (Logistic Regression, Random Forest, XGBoost, CatBoost) for predicting churn probability.
 + **User Interface:** React (TypeScript) form for entering customer details and viewing predictions.
 + **API Backend:** Flask server for handling prediction requests and storing results.
 + **Database Integration:** MySQL database for storing customer data and prediction outcomes.

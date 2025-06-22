@@ -2,7 +2,7 @@
 
 ## Description
 
-This project delivers an end-to-end solution for predicting customer churn in the telecommunications sector. It combines exploratory data analysis (EDA), advanced feature engineering, and machine learning models to identify customers at risk of leaving. The system features a React frontend for data entry and result visualization, a Flask backend for model inference and data management, and a MySQL database for storage. Achieving a good predictive accuracy, this project demonstrates the practical application of data science and full-stack engineering to real-world business challenges.
+This project delivers an end-to-end solution for predicting customer churn in the telecommunications sector. It combines exploratory data analysis (EDA), advanced feature engineering, and machine learning models to identify customers at risk of leaving. The system features a TypeScript frontend for data entry and result visualization, a Flask backend for model inference and data management, and a MySQL database for storage. Achieving a good predictive accuracy, this project demonstrates the practical application of data science and full-stack engineering to real-world business challenges.
 
 
 ## Features
